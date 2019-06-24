@@ -3,7 +3,7 @@
 function titleClickHandler(event){
   const clickedElement = this;
   console.log('Link was clicked!');
-  const articleSelector = document.getElementsById'a href'
+  const articleSelector = document.getElementsById'href'
   console.log('Link was clicked!');
 const targetArticle = document.querySelector('#article');
   console.log('Link was clicked!');
